@@ -22,3 +22,4 @@ artifact:
     files:
         - '**/*'
     name: webapp-artifacts
+    discard-paths: yes
